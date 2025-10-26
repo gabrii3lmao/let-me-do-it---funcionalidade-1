@@ -25,6 +25,6 @@ class Aluno
   end
 
   def to_h
-    {nome: @nome, idade: @idade, notas: @notas }
+    {nome: @nome, idade: @idade, notas: @notas, situacao: situacao }
   end
 end
