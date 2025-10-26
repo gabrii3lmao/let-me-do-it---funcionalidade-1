@@ -1,0 +1,14 @@
+{
+  "Informática": {
+    "sala": "Informática",
+    "alunos": []
+  },
+  "Eletrotécnica": {
+    "sala": "Eletrotécnica",
+    "alunos": []
+  },
+  "Administracão": {
+    "sala": "Administração",
+    "alunos": []
+  }
+}
