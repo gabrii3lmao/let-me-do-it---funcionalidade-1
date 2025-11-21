@@ -1,10 +1,31 @@
 {
   "Informática": {
     "sala": "Informática",
-    "alunos": []
+    "alunos": [
+      {
+        "nome": "gabriel",
+        "idade": 17,
+        "notas": [
+          8,
+          10
+        ]
+      },
+      {
+        "nome": "maria",
+        "idade": 16,
+        "notas": [
+          7,
+          5
+        ]
+      }
+    ]
   },
   "Eletrotécnica": {
     "sala": "Eletrotécnica",
+    "alunos": []
+  },
+  "Administração": {
+    "sala": "Administração",
     "alunos": []
   },
   "Administracão": {
